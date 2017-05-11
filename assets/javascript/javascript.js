@@ -17,6 +17,6 @@ function calculo() {
     peso_final = parseInt(peso_final);
     // document.getElementById("nombre").innerHTML = "peso_final";
 
-    console.log("Tu peso en " + planeta + " es : " + peso_final + " kilos"); //it should work
+    alert("Tu peso en " + planeta + " es : " + peso_final + " kilos"); //it should work
 
 }
